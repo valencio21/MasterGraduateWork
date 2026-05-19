@@ -1,4 +1,4 @@
-# MasterGraduateWor
+# MasterGraduateWork
 This repository contains the source code and research materials for a Master's dissertation focused on enhancing market basket analysis and product recommendation systems. The project introduces an automated pipeline for semantic product grouping using modern NLP techniques and spatial modeling, including SBERT embeddings, PCA, UMAP, and HDBSCAN clustering. By combining the CHARM algorithm with a custom multilevel semantic filter, the solution effectively addresses the common "rule explosion" problem, filtering out redundant associations to isolate highly significant cross-category connections.
 
 Furthermore, the repository includes the implementation of a custom ranking metric designed to overcome popularity bias. This ensures that valuable, niche product relationships are prioritized over trivial, mass-demand rules. The project culminates in an interactive web application that provides e-commerce businesses and retail analysts with actionable tools to explore topological macroanalysis of association rules, ultimately helping to optimize cross-selling strategies and spatial store layouts.
